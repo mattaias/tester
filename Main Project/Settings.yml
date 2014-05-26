@@ -1,0 +1,7 @@
+# setting Main
+
+keys:
+    Sequence:
+        type: str
+    Shot:
+        type: str
